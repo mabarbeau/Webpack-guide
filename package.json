@@ -8,6 +8,7 @@
     "watch": "webpack --watch",
     "start": "webpack-dev-server --open",
     "server": "node server.js",
+    "dev": "node dev-server.js",
     "build": "webpack"
   },
   "author": "Marc Barbeau",
